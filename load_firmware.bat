@@ -1,0 +1,1 @@
+ST-LINK_CLI -c SWD -P C:\Users\maitr\Desktop\Test_Xong_Xoa\stm32_project\build\stm32.hex -Run
